@@ -3,5 +3,7 @@ The Rainbow
 red
 blue
 white
+pink
+yellow
 yellow
 black
